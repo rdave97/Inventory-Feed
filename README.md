@@ -1,6 +1,7 @@
 # Inventory Feed project for a warehouse using Java and MySQL
 
 •	Please Install Eclipse IDE, Java 11(Version:11), MySQL. 
+
 •	First open the Warehouse_Java Folder in Eclipse IDE or any other IDE. 
 •	Please run the query script in the MySQL. 
 •	Automated the system: with time interval of 100 milli Seconds (run a task with attachment off timer. New data will be updated on the old ones).
